@@ -1,0 +1,3 @@
+[submodule "deno_blog-boilerplate"]
+	path = deno_blog-boilerplate
+	url = git@github.com:cihat/deno_blog-boilerplate.git
