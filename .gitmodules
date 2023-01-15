@@ -1,3 +1,9 @@
 [submodule "deno_blog-boilerplate"]
 	path = deno_blog-boilerplate
 	url = git@github.com:cihat/deno_blog-boilerplate.git
+[submodule "design-patterns"]
+	path = design-patterns
+	url = git@cihat.github.com:cihat/design-patterns.git
+[submodule "deno-boilerplate"]
+	path = deno-boilerplate
+	url = git@cihat.github.com:cihat/deno-boilerplate.git
